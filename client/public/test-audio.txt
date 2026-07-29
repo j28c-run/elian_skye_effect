@@ -1,0 +1,2 @@
+Archivo de prueba para debuggear la carga de audio.
+Este archivo será reemplazado con un audio real.
